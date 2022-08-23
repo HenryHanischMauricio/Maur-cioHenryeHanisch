@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @gabhanisch
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 
-<!---
-gabhanisch/gabhanisch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Aoba, eu sou @gabhanisch
+- 👀 Meus interesses são aprender cada dia mais sobre tecnologia e quem sabe futuramente me formar nessa área. 🎮🖥️💾
+- 🌱 Atualmente estou aprendendo, Técnico em Informática. 🖥️💾
+- 👥 Trabalho em equipe.
+- 2° TIA🖥️
+
