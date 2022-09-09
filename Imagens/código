@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="stylesheet" href="index.css">
+   <title>Mundo Dos Artigos em Gerais</title>
+</head>
+<body>
+  
+   <h1>Mundo Dos Artigos em Gerais </h1>
+   <p>Compre de tudo na Mundo Dos Artigos em Gerais</p>
+   <h2 id="Led"><b>Fita Led 10m</b></h2>
+    <h2 id="rgb">Fita de Led 10m Rgb por R$30,00</h2>
+   <img src="https://images.tcdn.com.br/img/img_prod/446300/fita_led_rgb_5050_rolo_10m_com_fonte_12v_3a_e_controle_remoto_6757_1_9cf95ad98bba77a7a6e05612a0096c5f.jpg" alt="Flowers in Chania" width="460" height="345"><br><br>
+   <map name="Fita de Led">
+   <area shape="rect" coords="55,783,1038,24" alt="Fita de Led" href="fita.htm">
+   </map>
+   <a href="https://shopee.com.br/Fita-Led-5m-Ultra-3528-RgbcProva-D%27agua-Prova-D%27agua-Controle-Sem-Fonte-Com-Fonte-i.445030483.9458000537">Compre aqui, Online, Na shopee</a>
+  
+   <style>
+       .FormadePagamento {
+         background-color: rgb(172, 38, 14);
+         color: rgb(15, 15, 15);
+         border: 2px solid rgb(7, 7, 7);
+         margin: 20px;
+         padding: 20px;
+       }
+       </style>
+       </head>
+       <body>
+       <h1>Formas de Pagamento</h1>
+       <div class="FormadePagamento">
+       <h2>Pix</h2>
+       <p>Método mais rápido</p>
+       </div>
+      
+       <div class="FormadePagamento">
+       <h2>Cartão de Crédito/Débito</h2>
+       <p> Mastercard, Visa, American Express, Elo</p>
+       </div>
+      
+       <div class="FormadePagamento">
+       <h2>Boleto Bancário</h2>
+       </div>
+      
+</body>
+</html>
+
+
+
+
+
+
+
