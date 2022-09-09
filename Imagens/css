@@ -1,0 +1,14 @@
+ 
+body {
+   background-image: url("https://www.dlojavirtual.com/wp-content/uploads/2021/01/como-abrir-loja-virtual-3-passos.jpg");
+}
+h1{
+   color: white;
+}
+#Led{
+    color: white;
+}
+#rgb{
+   color: white;
+}
+
