@@ -1,0 +1,34 @@
+*{
+    margin: 0 0 0 0;
+}
+
+body{background-image: url('Gamer.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    }
+
+header{
+    background-color: #975fa6;
+    padding: 10px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav li{
+    font-size: 25px;
+    display: inline;
+    margin: 0 5px 0 25px;
+}
+
+nav a{
+    text-decoration: none;
+    color: #000000;
+    text-transform: uppercase;
+}
+
+
+
+
+
+
